@@ -36,8 +36,35 @@ See folder structure in this repo — `powerbi/` contains the `.pbix` file,
 `screenshots/` contains exported dashboard views, `data/` contains the
 dataset.
 
+
 ## Preview
+
 ![Executive Overview](screenshots/01_executive_overview.png)
+
+## More Dashboard Views
+
+<details>
+<summary>Click to expand all dashboard screenshots</summary>
+
+### Academic Impact
+![Academic Impact](screenshots/03_academic_impact.png)
+
+### Mental Health & Lifestyle
+![Mental Health and Lifestyle](screenshots/02_mental_health_lifestyle.png)
+
+### Relationships & Conflicts
+![Relationships and Conflicts](screenshots/04_relationship_conflict.png)
+
+### Social Media by Academic Level
+![Social Media by Academic Level](screenshots/05_social_media_academic_level.png)
+
+### Social Media by Gender
+![Social Media by Gender](screenshots/06_social_media_gender.png)
+
+### Student Profile (Drill-through)
+![Student Profile](screenshots/07_student_profile.png)
+
+</details>
 
 
 ## Key Insights
