@@ -37,7 +37,7 @@ See folder structure in this repo — `powerbi/` contains the `.pbix` file,
 dataset.
 
 ## Preview
-![Executive Overview](screenshots/1.Executive_overview.PNG)
+![Executive Overview](screenshots/01_executive_overview.png)
 
 
 ## Key Insights
